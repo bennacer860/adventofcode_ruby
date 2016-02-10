@@ -1,0 +1,6 @@
+~ lu -> lc
+lx -> a
+5 -> lu
+lw OR lv -> lx
+1 AND lu -> lv
+lc LSHIFT 1 -> lw
